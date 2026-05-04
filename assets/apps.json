@@ -1,0 +1,11 @@
+{
+  "apps": [
+
+    {"name":"YouTube","url":"https://m.youtube.com","logo":"https://cdn-icons-png.flaticon.com/512/1384/1384060.png","category":"streaming"},
+    {"name":"Vimeo","url":"https://vimeo.com","logo":"https://cdn-icons-png.flaticon.com/512/1384/1384063.png","category":"streaming"},
+    {"name":"Twitch","url":"https://m.twitch.tv","logo":"https://cdn-icons-png.flaticon.com/512/5968/5968819.png","category":"live"},
+    {"name":"Kick","url":"https://kick.com","logo":"https://cdn-icons-png.flaticon.com/512/5968/5968703.png","category":"live"},
+    {"name":"TED","url":"https://www.ted.com/talks","logo":"https://cdn-icons-png.flaticon.com/512/888/888857.png","category":"live"},
+    {"name":"TikTok","url":"https://m.tiktok.com","logo":"https://cdn-icons-png.flaticon.com/512/3046/3046121.png","category":"social"},   
+    {"name":"Archive","url":"https://archive.org/details/movies","logo":"https://cdn-icons-png.flaticon.com/512/888/888857.png","category":"tools"}  ]
+}
