@@ -14,7 +14,7 @@
 
 **DoffRemote** connects your **Lifestar STB** (Set-Top Box) to the internet — control it wirelessly, cast any video from YouTube, movie sites, and live football streams directly to your TV screen.
 
-[📥 Download APK](#installation) · [🐛 Report Bug](https://github.com/doffn/doffremote/issues) · [💡 Request Feature](https://github.com/doffn/doffremote/issues)
+[📥 Download APK]([#installation](https://github.com/doffn/Smart-Remote/releases/tag/SmartRemote) · [🐛 Report Bug](https://github.com/doffn/doffremote/issues) · [💡 Request Feature](https://github.com/doffn/doffremote/issues)
 
 </div>
 
