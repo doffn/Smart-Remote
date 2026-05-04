@@ -129,7 +129,7 @@ Content-Type: application/json
 ## 🚀 Installation
 
 ### Option A — Download APK
-1. Go to the [Releases](https://github.com/doffn/doffremote/releases) page
+1. Go to the [Releases](https://github.com/doffn/Smart-Remote/releases/tag/SmartRemote) page
 2. Download the latest `doff_remote.apk`
 3. Enable "Install from unknown sources" on your Android device
 4. Install and launch
