@@ -24,9 +24,9 @@
 
 <div align="center">
 
-| Scan Page | Full Remote | Web Hub | Web View |
+| Scan Page | Full Remote | Web Hub | About |
 |:-----------:|:-----------:|:-------:|:--------------:|
-| <img src="C:\Users\doff n\Downloads\doff_remote (1)\screenshots\scan.jpg" width="180"/> | <img src="C:\Users\doff n\Downloads\doff_remote (1)\screenshots\remote.jpg" width="180"/> | <img src="C:\Users\doff n\Downloads\doff_remote (1)\screenshots\webapp.jpg" width="180"/> | <img src="C:\Users\doff n\Downloads\doff_remote (1)\screenshots\webview.jpg" width="180"/> |
+| <img src="https://github.com/doffn/Lifestar-Smart-Remote/blob/main/screenshots/scan.jpg" width="180"/> | <img src="https://github.com/doffn/Lifestar-Smart-Remote/blob/main/screenshots/remote.jpg" width="180"/> | <img src="https://github.com/doffn/Lifestar-Smart-Remote/blob/main/screenshots/webapp.jpg" width="180"/> | <img src="https://github.com/doffn/Lifestar-Smart-Remote/blob/main/screenshots/about.jpg" width="180"/> |
 
 > Screenshots are from a real device running Android 13. UI adapts to both light and dark modes.
 
